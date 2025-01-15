@@ -6,6 +6,9 @@
                 <h1><center><font color="#FFFFFF">พรชัยอพาร์ตเมนต์</font></center></h1>
                 <?php include "Date.php"; ?>
             </td>
+
+            <td w
+
             <td width="43" rowspan="2">&nbsp;</td>
         </tr>
         <tr>
@@ -26,6 +29,7 @@
 				<li><a href="contact.php">ติดต่อKFC</li>
 
 				</ul><p>
+
 				<?php include "login_form.php";?>
 			</td>
         </tr>
